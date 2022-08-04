@@ -131,8 +131,12 @@ body{
 }
 
 /*======RECIPE DETAILS======*/
-.recipe-detals img{
-    width:100%:
+.recipe-details img{
+    width:30%;
+    display: block;
+    margin: auto;
+    padding-left:30px 10px 10px 10px;
+    border: 2px solid black;
 }
 
 .recipe-details h1{
